@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "poc-falabella-dataengineer",
+  "private_key_id": "a8d964cd4962137a0f2877c9801c28325f3a930a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCuYoKcKH+hZ/Ty\nX07B9NMgGo8qKtIKMoKt5hYLI+Rua/UY7BaSeyvStjy+zVE2QO745czvHcO/+YUp\nXcqOyNDL0YRkzmA9auriTTJWMTl6RzupPZZ88Fh0sTHVyoKbyE6CMg+hCacgYBmy\nUceaiGxb4NQe63G3BrCLY7+fvygapvBVKeqZCmzIDRBxaOSJYW0zjfRyAInNyaqu\nS0CS7vtFB7NAlXyEcfjHQR4ihL/1R6FPAXyWqgi/7qJYe9OyquGQo3EvaRv4xICX\nn2tIpv0/Ta+5hIiUGWlOxJAr5bSrvlkH+ZapkdrjeFY8q4yNQvjHV69GmgAXTKPn\n4l5Nk9M5AgMBAAECggEABLHxS0wJ16opXac0QyOY1ZnxddSuUAj5HL5/pHAkc9aj\nRDcDCpGXZfZzHz3+7EOGS5xATsXR4ebRb4IvdHWyrXIoKuCllbG9vjcO3mQ35HNr\nh0x5s0ZzUzz8FwH7Tz9u4bGAWzkbz1LXDkaGZcI7jKO6glSbfK6I7U/TtnTamxEN\nF9AwkUBkk+UBpywzY/Lrwb1Y6/qlpGMh9z6GaYWzxNgB3rGAkQRrxQIXxkw8jVsz\na5As24xUy2GkBAsPzN7OWkHP/cIhrC2aCvoc7ppUATLlqF2o04KYYbEI7keZ+nt6\nsZ1ACRthbndLeiuM7Dj6Gfl+auRDJ7+YIqHQctdUiwKBgQDxeeI8GAdh7xJUHSNd\nnqNsTWhMeutCwu59QmgOCA1L8UrZHSWJgNxN06567rlH1IgHl/cvEv4H/6+nr0XK\nNHVr7GUfTEEOUou5x/bhURKH+HBDmQSPIA1lW1RUm0gqnWkSSarVR4i5ZJlWE9r1\n/NneVUWZsn6QYa9NkbitlMeDRwKBgQC435dsIwDkEYzBYZFlhqlxwDFP2iEC/kQ9\nQN8cxen8JGZ/EcFy1G8t0781rhlBfZCyxrIH6hLRRxxRrziGtcKqg/A6l1Ucntry\nsAHscpKzlhhGS2YMlGl3CHzWUs4a1lZEMNv4+H/gTYKEoDbuX2MJCucCltZxOzNM\nSv+tSjQ1fwKBgQCM/nfEUttsqWTwTBssPMZ7JC90CIl5b8xEwxNyrezlnLvxTX1v\nbhg0MRc9nEn+0O+kT2z6xYIiNX7g0AxV5o9xNpRM0/9gV35SOZnDMc06KyuRrLTm\nxPZNaigxRoG6sDJ7hRwEcEI6zaxigDFnU/36PZvoBDq2HvN2vVExuR9NXQKBgDD2\nXrcwChNdJocs3QIjiQrsWOMKJUYSq2YBoVWQgSjbRx4OSMqtwohDlVeVNXEn3UPL\n5ei8sKEmkTR9EJ500wqwCNarr8n1tI0j2k6SBZJ0hRdQ7sUUJV52LAHjSlzHOW+z\n9P5aahuwy4lumT3Gm4cQkSAZbM/uWuaw0khF58/nAoGAdeaQHhYOffBZO8Ad2LXR\nhf8dnR7W0zEDbYPFWCIW8Xwvr5MzXp/q06GsPuFqQKg3qxKULLvV24eQPwcA80YS\nlip3oM1jcmIdTW30rf7J/LfqZSV5xfGU42Vnf1lju1vU2p38Vb6c8/GRh8JuGT9x\nJ+K82b6hW68J1NwoAqssNEI=\n-----END PRIVATE KEY-----\n",
+  "client_email": "poc-fallabella-dataengineer@poc-falabella-dataengineer.iam.gserviceaccount.com",
+  "client_id": "116632009906081034586",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/poc-fallabella-dataengineer%40poc-falabella-dataengineer.iam.gserviceaccount.com"
+}
